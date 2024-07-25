@@ -22,6 +22,7 @@ local allowedPlayers = {
 	{ hwid = "8B84E55E-2BF7-417E-8BB3-370D6684DADF", playerId = 312312312 },
 	{ hwid = "DHIASH-2BF7-417E-8BB3-370D6684DADF", playerId = 3123123 },
 	{ hwid = "DHIASH-2BF7-417E-8BB3-370D6684DADF", playerId = 3123123 },
+	{ hwid = "DHIASH-2BF7-417E-8BB3-370D6684DADF", playerId = 3123123 },
 }
 addAllowedPlayers(allowedPlayers)
 
