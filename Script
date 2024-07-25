@@ -33,3 +33,5 @@ local function kickIfNotAllowed(player)
 end
 
 kickIfNotAllowed(Players.LocalPlayer)
+
+HWID: 8B84E55E-2BF7-417E-8BB3-370D6684DADF, PlayerID: 312312312
