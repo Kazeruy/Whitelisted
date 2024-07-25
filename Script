@@ -20,6 +20,7 @@ local allowedPlayers = {
 	{ hwid = "a5b537f0-2378-4c18-8777-163b48a36d51", playerId = 1048568679 },
 	{ hwid = "a40987e4-fa9d-4377-a5d6-8a0f2428c492", playerId = 2240603004 },
 	{ hwid = "8B84E55E-2BF7-417E-8BB3-370D6684DADF", playerId = 312312312 },
+	{ hwid = "DHIASH-2BF7-417E-8BB3-370D6684DADF", playerId = 3123123 },
 }
 addAllowedPlayers(allowedPlayers)
 
