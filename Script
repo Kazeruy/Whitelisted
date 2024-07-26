@@ -20,6 +20,7 @@ local allowedPlayers = {
 	{ hwid = "a5b537f0-2378-4c18-8777-163b48a36d51", playerId = 1048568679 }, --Assigned By justarandom777
 	{ hwid = "a40987e4-fa9d-4377-a5d6-8a0f2428c492", playerId = 2240603004 }, --Assigned By justarandom777
 	{ hwid = "b8e4d74e-73f2-437e-ba4d-3a42f9b84e9b", playerId = 1327869120 }, --Assigned By justarandom777
+	{ hwid = "9C82DE70-0197-48C6-931B-E44A685CED04", playerId = 4728612792 }, --Assigned By justarandom777
 }
 addAllowedPlayers(allowedPlayers)
 
