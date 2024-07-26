@@ -12,13 +12,13 @@ local function addAllowedPlayers(playerList)
 end
 
 local allowedPlayers = {
-	{ hwid = "8B84E55E-2BF7-417E-8BB3-370D6684DADE", playerId = 1912301375 },
-	{ hwid = "4493C49F-EEEA-45BD-AD35-C3DB4936EC29", playerId = 2821226620 },
-	{ hwid = "63937798-0F7A-498D-AAF2-49436820D4DD", playerId = 5769219916 },
-	{ hwid = "3206f1a7-8215-4808-9f26-ad88b0cd6e8a", playerId = 2625575487 },
-	{ hwid = "100950EA-FA0C-4982-801F-B23663C2097D", playerId = 3358506566 },
-	{ hwid = "a5b537f0-2378-4c18-8777-163b48a36d51", playerId = 1048568679 },
-	{ hwid = "a40987e4-fa9d-4377-a5d6-8a0f2428c492", playerId = 2240603004 },
+	{ hwid = "8B84E55E-2BF7-417E-8BB3-370D6684DADE", playerId = 1912301375 }, --Assigned By justarandom777
+	{ hwid = "4493C49F-EEEA-45BD-AD35-C3DB4936EC29", playerId = 2821226620 }, --Assigned By justarandom777
+	{ hwid = "63937798-0F7A-498D-AAF2-49436820D4DD", playerId = 5769219916 }, --Assigned By justarandom777
+	{ hwid = "3206f1a7-8215-4808-9f26-ad88b0cd6e8a", playerId = 2625575487 }, --Assigned By justarandom777
+	{ hwid = "100950EA-FA0C-4982-801F-B23663C2097D", playerId = 3358506566 }, --Assigned By justarandom777
+	{ hwid = "a5b537f0-2378-4c18-8777-163b48a36d51", playerId = 1048568679 }, --Assigned By justarandom777
+	{ hwid = "a40987e4-fa9d-4377-a5d6-8a0f2428c492", playerId = 2240603004 }, --Assigned By justarandom777
 	{ hwid = "b8e4d74e-73f2-437e-ba4d-3a42f9b84e9b", playerId = 1327869120 }, --Assigned By justarandom777
 }
 addAllowedPlayers(allowedPlayers)
