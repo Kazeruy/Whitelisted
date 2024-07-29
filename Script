@@ -19,6 +19,7 @@ local allowedPlayers = {
 	{ playerId = 1327869120 }, -- Assigned By justarandom777
 	{ playerId = 4728612792 }, -- Assigned By justarandom777
         { playerId = 580982239 }, -- Assigned By justarandom777
+	{ playerId = 12312312 }, -- Assigned By justarandom777
 }
 addAllowedPlayers(allowedPlayers)
 
